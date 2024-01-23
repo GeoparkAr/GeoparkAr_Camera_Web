@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "yolov5-tfjs-react-native",
+  "short_name": "yolov5-tfjs-react-native",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.hyuto.yolov5tfjsreactnative",
+      "id": "com.hyuto.yolov5tfjsreactnative"
+    }
+  ],
+  "prefer_related_applications": true
+}

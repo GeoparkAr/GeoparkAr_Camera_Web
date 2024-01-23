@@ -1,0 +1,56 @@
+{
+  "name": "yolov5-tfjs-react-native",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
+    "@expo/webpack-config": "^19.0.0",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@tensorflow/tfjs": "^3.20.0",
+    "@tensorflow/tfjs-react-native": "^0.8.0",
+    "eas": "^0.1.0",
+    "expo": "^49.0.0",
+    "expo-2d-context": "^0.0.3",
+    "expo-asset": "~8.10.1",
+    "expo-camera": "~13.4.4",
+    "expo-cli": "^6.3.10",
+    "expo-gl": "~13.0.1",
+    "expo-gl-cpp": "~11.4.0",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "nativewind": "^2.0.9",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-fs": "^2.20.0",
+    "react-native-web": "~0.19.6",
+    "webpack": "^5.89.0",
+    "webpack-manifest-plugin": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "autoprefixer": "^10.4.8",
+    "copy-webpack-plugin": "6.3.2",
+    "postcss": "^8.4.16",
+    "postcss-loader": "4.2.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "author": {
+    "name": "Michael",
+    "url": "https://github.com/michaelalexandrinofreire"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelalexandrinofreire/web-geoparkcamera"
+  },
+  "bugs": {
+    "url": "https://github.com/michaelalexandrinofreire/web-geoparkcamera/issues"
+  }
+}
